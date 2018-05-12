@@ -1,0 +1,36 @@
+_repo: A-Book-of-Bryn-Mawr-Stories_43482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Morris, Margaretta
+    gutenberg_agent_id: '42245'
+    url: http://www.gutenberg.org/2009/agents/42245
+  - agent_name: Congdon, Louise Buffum
+    gutenberg_agent_id: '42246'
+    url: http://www.gutenberg.org/2009/agents/42246
+description: ''
+gutenberg_issued: '2013-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bryn Mawr College -- Fiction'
+- !lcsh 'Women college students -- Fiction'
+- !lcsh 'Bryn Mawr (Pa.) -- Social life and customs -- Fiction'
+- !lcsh 'College stories, American'
+- !lcc 'PS'
+tableOfContents: Her masterpiece / Marian T. MacIntosh -- In Maytime / Anne Maynard
+  Kidder -- Within four years / Elva Lee -- Free among the dead / Georgiana Goddard
+  King -- Studies in college colour / L.S.B.S. and G.E.T.S. -- Epoch making / Cora
+  Armistead Hardy -- A reminiscence / Clara Warren Vail -- Catherine's career / Harriet
+  Jean Crawford -- The apostasy of Anita Fiske / Ellen Rose Giles -- A diplomatic
+  crusade / Edith Campbell Crane.
+title: A Book of Bryn Mawr Stories
+url: http://www.gutenberg.org/ebooks/43482
